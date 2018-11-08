@@ -1,0 +1,23 @@
+{
+  "0": {
+    "id": 0,
+    "event_name": "Credit Card",
+    "description": "payment for CC ending in 1111",
+    "event_type": "monthly",
+    "due_date": "2018-10-16"
+  },
+  "1": {
+    "id": 1,
+    "event_name": "Phone Bill",
+    "description": "$50 due",
+    "event_type": "monthly",
+    "due_date": "2018-10-05"
+  },
+  "2": {
+    "id": 2,
+    "event_name": "Pay Steve",
+    "description": "pay for fixing drywall",
+    "event_type": "one time",
+    "due_date": "2018-03-25"
+  }
+}
